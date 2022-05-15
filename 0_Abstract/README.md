@@ -8,5 +8,5 @@ Speed is usually changeable on vehicles built after 1969, with various continuou
 employ one or more pantograph arms, while most personal autos use two synchronised radial-type arms.
 
 
-A windscreen washer system is also used on some vehicles to improve and broaden the wiper(s) function to dry or icy conditions. Several well-placed nozzles spray water or antifreeze window washer fluid at the windscreen with this method. When utilised in conjunction with the wiper blades, this mechanism aids in the removal of dirt and dust from the windscreen.In this project I explain about how wiper works based on stm32, an ARM based Microcontroller33
+A windscreen washer system is also used on some vehicles to improve and broaden the wiper(s) function to dry or icy conditions. Several well-placed nozzles spray water or antifreeze window washer fluid at the windscreen with this method. When utilised in conjunction with the wiper blades, this mechanism aids in the removal of dirt and dust from the windscreen.In this project I explain about how wiper works based on stm32, an ARM based Microcontroller33.
 
