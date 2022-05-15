@@ -1,4 +1,7 @@
 ## Code Quality Score :
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ba5385f6c1bb4db981be168a969856d8)](https://app.codacy.com/gh/Avinash20031999/M3_Car_Wiping_System?utm_source=github.com&utm_medium=referral&utm_content=Avinash20031999/M3_Car_Wiping_System&utm_campaign=Badge_Grade_Settings)
+
 ![code quality score](https://api.codiga.io/project/33552/score/svg)
 
 ## Code Grade : 
