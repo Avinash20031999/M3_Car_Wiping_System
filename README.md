@@ -1,3 +1,8 @@
+## Code Quality Score :
+![code quality score](https://api.codiga.io/project/33552/score/svg)
+
+
+
 # M3_Car_Wiping_System
 ![image](https://user-images.githubusercontent.com/101171908/168266522-2a22b8ab-232d-4513-94d5-bf4f25a97d98.png)
 
