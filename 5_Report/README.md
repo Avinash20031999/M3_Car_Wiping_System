@@ -98,7 +98,9 @@ Once the board repaired cannot be replaced quickly
 
 
 ## Structural diagram of the wiper system
-image
+![image](https://user-images.githubusercontent.com/101059765/168487536-b459d4b7-2be2-4b10-a29c-af89f5907980.png)
+
 
 ## Block Diagram:
-image
+![image](https://user-images.githubusercontent.com/101059765/168487548-011b8072-e318-4c07-accb-30e3bd8c5f02.png)
+
