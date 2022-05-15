@@ -1,6 +1,9 @@
 ## Code Quality Score :
 ![code quality score](https://api.codiga.io/project/33552/score/svg)
 
+## Code Grade : 
+![code grade](https://api.codiga.io/project/33552/status/svg)
+
 
 
 # M3_Car_Wiping_System
