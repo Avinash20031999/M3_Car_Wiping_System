@@ -7,6 +7,9 @@
 ## Codacy Badge : 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b1a4baaf31a3463195af886412cce697)](https://www.codacy.com/gh/Avinash20031999/M3_Car_Wiping_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Avinash20031999/M3_Car_Wiping_System&amp;utm_campaign=Badge_Grade)
 
+## CI Status Badge :
+[![CI](https://github.com/Avinash20031999/M3_Car_Wiping_System/actions/workflows/main.yml/badge.svg)](https://github.com/Avinash20031999/M3_Car_Wiping_System/actions/workflows/main.yml)
+
 
 # M3_Car_Wiping_System
 ![image](https://user-images.githubusercontent.com/101171908/168266522-2a22b8ab-232d-4513-94d5-bf4f25a97d98.png)
