@@ -1,3 +1,5 @@
+# Badges :
+
 ## Code Quality Score :
 ![code quality score](https://api.codiga.io/project/33552/score/svg)
 
